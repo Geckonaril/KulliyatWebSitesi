@@ -1,0 +1,31 @@
+p{font-family: Arial;
+    font-size: 32px;
+    font-weight: bold;
+    border: 3px;
+    border-color: brown;
+    border-style: outset;
+    }
+    h1{
+        font-family: Arial;
+        font-size:12px;
+        color:rgb(74, 22, 22);
+
+    }
+    img{border-color: darkblue;
+        border:60px;
+        border-style: ridge;
+    }
+    .baslik{
+        border: 2px solid #a1a1a1;
+        padding: 10px 40px;
+        background-color: darkgoldenrod;
+        width: 200px;
+        height: 100px;
+        color: aliceblue;
+        border-radius: 25px;
+        margin: 20px;
+        float: left;
+        font-size:45px;
+        color: chartreuse;
+        margin-left: 40px;
+    }
